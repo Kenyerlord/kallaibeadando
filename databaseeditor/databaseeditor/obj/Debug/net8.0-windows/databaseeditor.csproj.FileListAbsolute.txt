@@ -1,0 +1,125 @@
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.exe
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.deps.json
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.runtimeconfig.json
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.pdb
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.csproj.AssemblyReference.cache
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor_MarkupCompile.cache
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor_MarkupCompile.lref
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.g.resources
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.AssemblyInfoInputs.cache
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.AssemblyInfo.cs
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.csproj.CoreCompileInputs.cache
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\database.26ADB675.Up2Date
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\refint\databaseeditor.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.pdb
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.genruntimeconfig.cache
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\ref\databaseeditor.dll
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\Editor.g.cs
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\Editor.baml
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainMenu.g.cs
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainMenu.baml
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\BeerDatabase.g.cs
+C:\Users\orepe\OneDrive\Asztali gép\projektmunka\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\BeerDatabase.baml
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.exe
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.deps.json
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.runtimeconfig.json
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.pdb
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.csproj.AssemblyReference.cache
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\BeerDatabase.g.cs
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\Editor.g.cs
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainMenu.g.cs
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor_MarkupCompile.cache
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor_MarkupCompile.lref
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\BeerDatabase.baml
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\Editor.baml
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainMenu.baml
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.g.resources
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.AssemblyInfoInputs.cache
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.AssemblyInfo.cs
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.csproj.CoreCompileInputs.cache
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\database.26ADB675.Up2Date
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\refint\databaseeditor.dll
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.pdb
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.genruntimeconfig.cache
+C:\Users\13d\Desktop\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\ref\databaseeditor.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.exe
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.deps.json
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.runtimeconfig.json
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\databaseeditor.pdb
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.csproj.AssemblyReference.cache
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\BeerDatabase.g.cs
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\Editor.g.cs
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainMenu.g.cs
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor_MarkupCompile.cache
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor_MarkupCompile.lref
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\BeerDatabase.baml
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\Editor.baml
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainMenu.baml
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.g.resources
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.AssemblyInfoInputs.cache
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.AssemblyInfo.cs
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.csproj.CoreCompileInputs.cache
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\database.26ADB675.Up2Date
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\refint\databaseeditor.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.pdb
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\databaseeditor.genruntimeconfig.cache
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\ref\databaseeditor.dll
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\Order.g.cs
+C:\Users\13d\Desktop\databaseeditor2.0\databaseeditor\databaseeditor\obj\Debug\net8.0-windows\Order.baml
